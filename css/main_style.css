@@ -388,7 +388,7 @@ h3{
 .footer-col h4 {
     font-size: 1.5rem;
     margin-bottom: 15px;
-    border-bottom: 2px solid #a90606;
+    border-bottom: 2px solid #e41010;
     display: inline-block;
     padding-bottom: 5px;
 }
@@ -675,7 +675,7 @@ h3{
 @media (max-width: 768px) {
     .review-container {
         flex-direction: column;
-        align-items: center;
+        align-items  center;
     }
 }
 
