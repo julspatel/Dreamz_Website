@@ -11,7 +11,7 @@ function hidemenu(){
 const reviews = [
     { name: "Prakash Umardiya", img: "image/student1.jpg", text: "Amazing institute! Highly recommended!", rating: 5 },
     { name: "Zankhana Mistri", img: "image/student2.jpg", text: "Great environment and support!", rating: 5 },
-    { name: "Rajvi Udhan", img: "image/student3.jpg", text: "Helped me get a great job!", rating: 5 },
+    { name: "Shyam Bhochaiya", img: "image/student3.jpg", text: "Helped me get a great job!", rating: 5 },
     { name: "Nivedita Gajipara", img: "image/student4.jpg", text: "Fantastic learning experience!", rating: 5 },
     { name: "Rushil Patel", img: "image/student5.jpg", text: "Super friendly teachers!", rating: 5 },
     { name: "Shruti Vaghasiya ", img: "image/student6.jpg", text: "Loved the real-world projects!", rating: 5 },
@@ -23,7 +23,7 @@ const reviews = [
     { name: "Janika Chudhari", img: "image/student12.jpg", text: "Highly recommend this place!", rating: 5 },
     { name: "Kinjal Khodifad", img: "image/student13.jpg", text: "Helped me improve a lot!", rating: 5 },
     { name: "Sandip Dedaniya", img: "image/student14.jpg", text: "Amazing experience!", rating: 5 },
-    { name: "Vidashi Patel", img: "image/student15.jpg", text: "Best institute ever!", rating: 5 }
+    { name: "Rajvi Undhad", img: "image/student15.jpg", text: "Best institute ever!", rating: 5 }
 ];
 
 let currentPage = 1;
