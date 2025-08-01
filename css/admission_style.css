@@ -536,3 +536,6 @@ nav ul li a:hover {
         width: 100%;
     }
 }
+.review-card .review-img { display: none; }
+}
+   

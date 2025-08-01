@@ -182,6 +182,7 @@ h3{
 
 
     /*Campus*/
+.review-card .review-img { display: none; }
 
 
 .campus{
@@ -672,10 +673,10 @@ h3{
 } */
 
 /* Responsive */
-@media (max-width: 768px) {
+@media  (max-width: 768px) {
     .review-container {
         flex-direction: column;
-        align-items  center;
+        align-items : center;
     }
 }
 
@@ -686,7 +687,10 @@ h3{
     .album-container {
         grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     }
-
+    .review-container {
+        flex-direction: column;
+        align-items : center;
+    }
     .album-img {
         height: 150px;
     }
@@ -1132,3 +1136,7 @@ h3{
         display: none; /* Chrome, Safari, Opera */
       }
       
+
+
+
+   
