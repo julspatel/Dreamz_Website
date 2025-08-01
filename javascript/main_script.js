@@ -9,7 +9,8 @@ function hidemenu(){
 
 // document.addEventListener('contextmenu', event => event.preventDefault());
 const reviews = [
-    { name: "Prakash Umardiya", img: "image/student1.jpg", text: "Amazing institute! Highly recommended!", rating: 5 },
+    // { name: "Prakash Umardiya", img: "image/student1.jpg", text: "Amazing institute! Highly recommended!", rating: 5 },
+    { name: "Prakash Umardiya",  text: "Amazing institute! Highly recommended!", rating: 5 },
     { name: "Zankhana Mistri", img: "image/student2.jpg", text: "Great environment and support!", rating: 5 },
     { name: "Shyam Bhochaiya", img: "image/student3.jpg", text: "Helped me get a great job!", rating: 5 },
     { name: "Nivedita Gajipara", img: "image/student4.jpg", text: "Fantastic learning experience!", rating: 5 },
